@@ -435,7 +435,7 @@ function Library:init(__title : string?) : Library
 	__title_label.Size = UDim2.new(0, 150, 1, 0)
 	__title_label.Position = UDim2.new(0, 20, 0, 0)
 	__title_label.BackgroundTransparency = 1
-	__title_label.Text = 'euphoria'
+	__title_label.Text = 'laced.max'
 	__title_label.TextColor3 = Color3.fromRGB(255, 255, 255)
 	__title_label.TextSize = 16
 	__title_label.Font = Enum.Font.Gotham
