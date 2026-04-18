@@ -3099,3 +3099,5 @@ function Library:init(__title : string?) : Library
 
 	return self
 end
+
+return Library
